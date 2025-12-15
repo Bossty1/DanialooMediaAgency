@@ -24,7 +24,7 @@ const Navbar = () => {
               <Zap className="w-6 h-6 text-primary-foreground" />
             </div>
             <span className="text-xl font-display font-bold text-foreground">
-              Smm<span className="text-gradient-primary">Bossty</span>
+              Agency<span className="text-gradient-primary">Danialoo</span>
             </span>
           </a>
 

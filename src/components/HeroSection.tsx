@@ -42,7 +42,7 @@ const HeroSection = () => {
             </h1>
 
             <p className="text-lg text-muted-foreground max-w-xl leading-relaxed">
-              <strong className="text-foreground">SmmBossty</strong> {t("heroDescription")}{" "}
+              <strong className="text-foreground">Danialoo Agency</strong> {t("heroDescription")}{" "}
               <strong className="text-foreground">Instagram, YouTube, TikTok, Telegram, X/Twitter</strong> {t("andMore")}
             </p>
 
@@ -127,7 +127,7 @@ const HeroSection = () => {
                   </div>
                   <div>
                     <p className="text-xs text-muted-foreground">{t("growth")}</p>
-                    <p className="text-sm font-semibold text-foreground">+250%</p>
+                    <p className="text-sm font-semibold text-foreground">+25%</p>
                   </div>
                 </div>
               </div>
@@ -151,7 +151,7 @@ const HeroSection = () => {
                   </div>
                   <div>
                     <p className="text-xs text-muted-foreground">{t("orders")}</p>
-                    <p className="text-sm font-semibold text-foreground">80M+</p>
+                    <p className="text-sm font-semibold text-foreground">80K+</p>
                   </div>
                 </div>
               </div>

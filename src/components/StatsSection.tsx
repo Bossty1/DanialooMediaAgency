@@ -10,19 +10,19 @@ interface StatItem {
 
 const stats: StatItem[] = [
   {
-    value: "80",
-    suffix: "M+",
+    value: "1000",
+    suffix: "K+",
     labelKey: "totalOrders",
     descKey: "totalOrdersDesc",
   },
   {
     value: "250",
-    suffix: "K+",
+    suffix: "+",
     labelKey: "registeredUsers",
     descKey: "registeredUsersDesc",
   },
   {
-    value: "2000",
+    value: "200",
     suffix: "+",
     labelKey: "activeServices",
     descKey: "activeServicesDesc",
