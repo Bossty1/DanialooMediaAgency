@@ -50,7 +50,7 @@ const Footer = () => {
                 <Zap className="w-6 h-6 text-primary-foreground" />
               </div>
               <span className="text-xl font-display font-bold text-foreground">
-                agency<span className="text-gradient-primary">Danialoo</span>
+                Danialoo<span className="text-gradient-primary">Agency</span>
               </span>
             </a>
             <p className="text-muted-foreground mb-6 max-w-sm leading-relaxed">
